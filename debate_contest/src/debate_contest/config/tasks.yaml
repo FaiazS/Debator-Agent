@@ -1,0 +1,42 @@
+propose_motion:
+
+  description: >
+    You are proposing the motion: {motion}.
+    Come up with an argument in favour of the motion.
+    Be as convincing as possible.
+
+  expected_output: >
+    Your clear arguments in favour of the motion, in a very bold and concise manner.
+
+  agent: debator_contestant1
+
+  output_file: output/motion_proposal.md
+
+
+oppose_motion:
+
+  description: >
+    You are opposing the motion: {motion}.
+    Come up with an argument against the motion.
+    Be as convincing as possible.
+
+  expected_output: >
+    Your clear arguments against the motion, in a very bold and concise manner.
+
+  agent: debator_contestant2
+
+  output_file: output/motion_opposal.md  
+
+review:
+
+  description: >
+
+    Review the arguments delivered by the debators, and conculde which side is more convincing and justifying.
+
+  expected_output: >
+
+    You decide which side is more convincing, and why.
+
+  agent: judge
+
+  output_file: output/motion_review.md

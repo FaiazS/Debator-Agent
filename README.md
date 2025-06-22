@@ -1,4 +1,4 @@
-# # 🧠 AI Debate Simulator – Let the LLMs duke it out in style!
+🧠 AI Debate Simulator – Let the LLMs duke it out in style!
 
 ## 🚀 Live Demo  
 

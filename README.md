@@ -49,4 +49,29 @@
 
 ---
 
-## 📁 Folder Structure
+## 🛠️ Tech Stack
+
+- **CrewAI** – Agent-task orchestration engine.
+   
+- **OpenAI / Gemini / Groq** – Large Language Models.
+  
+- **Gradio** – Frontend for interaction.
+  
+- **FPDF** – PDF transcript generation.
+  
+- **Python 3.11+**
+
+---
+
+🧪 Example Use Case
+
+Motion: Should AI replace human teachers?
+
+Result:
+
+ - Debator 1: YES, for scalability and consistency.
+   
+ - Debator 2: NO, due to empathy and classroom presence.
+   
+ - Verdict: Debator 2 wins.
+---

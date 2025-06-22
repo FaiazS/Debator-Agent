@@ -14,9 +14,13 @@
 ## 🎯 Features
 
 - 📝 **User-driven Motion Input** – You choose the topic; the AI handles the rest.
+  
 - 🤖 **Agentic Architecture** – With distinct roles for debating and judging.
+  
 - 📄 **PDF Transcript Download** – Save the entire debate session as a structured document.
+  
 - 🧑‍💻 **Sleek Gradio UI** – For seamless interaction.
+  
 - ☁️ **Hugging Face Deployable** – Fully deployable on the cloud or locally.
 
 ---
@@ -35,8 +39,10 @@
 
 **Motion**: _"There should be strict laws to regulate AI in enterprises."_  
 
-- 🎙️ **Pro Side**: Advocated for job protection and ethical AI usage.  
-- 🎙️ **Con Side**: Emphasized innovation risks and market flexibility.  
+- 🎙️ **Pro Side**: Advocated for job protection and ethical AI usage.
+   
+- 🎙️ **Con Side**: Emphasized innovation risks and market flexibility.
+  
 - 🧑‍⚖️ **Judge**: Sided with Pro based on urgency and societal impact.
 
 🧾 **Transcript**: Downloadable as a professionally formatted PDF!
@@ -44,4 +50,3 @@
 ---
 
 ## 📁 Folder Structure
-
